@@ -1,0 +1,14 @@
+# Never commit member data
+*.xlsx
+*.docx
+*.csv
+responses/
+profiles/
+
+# Local Apps Script tooling
+.clasp.json
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
